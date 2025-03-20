@@ -45,7 +45,7 @@ A Python-based document retrieval system that helps researchers find relevant in
 ```
 document-retrieval-system/
 ├── data/                   # Folder for document files
-│   └── paper1.txt          # Sample document (automatically created if missing)
+│   └── paper1.pdf          # Sample document 
 ├── document_class.py       # Document processing implementation
 ├── vector_store_class.py   # Vector storage implementation
 ├── mock_llm_class.py       # Mock LLM implementation
