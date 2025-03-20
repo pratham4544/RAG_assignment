@@ -166,4 +166,4 @@ class Document:
         else:
             raise ValueError(f"Unsupported embedding method: {method}")
             
-        return self.embeddings
+        return self.embeddings 
